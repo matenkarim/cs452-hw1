@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cs452-hw1
-=======
 # CS 452 - 002 | HW1 
 # Maten Karim
 ## Project Specification
@@ -107,5 +104,3 @@ valgrind --leak-check=full --show-leak-kinds=all ./test
 Here is a link to a YouTube video, that demonstrates everything I have written about above:
 
 https://youtu.be/pqLwrlSajts
-
->>>>>>> ed18203 (first commit)
